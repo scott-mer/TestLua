@@ -41,6 +41,7 @@ function love.update(dt)
   end
 
   x = 5
+  --joel sucks
 
 end
 
