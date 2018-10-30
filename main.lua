@@ -1,6 +1,6 @@
 debug = true
 canShoot = true
-canShootTimerMax = .2
+canShootTimerMax = .5
 canShootTimer = canShootTimerMax
 
 bulletImg = nil
