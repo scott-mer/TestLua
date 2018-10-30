@@ -40,6 +40,9 @@ function love.update(dt)
     end
   end
 
+  x = 5
+  --joel sucks
+
 end
 
 function love.draw(dt)
