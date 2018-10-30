@@ -40,6 +40,8 @@ function love.update(dt)
     end
   end
 
+  x = 5
+
 end
 
 function love.draw(dt)
